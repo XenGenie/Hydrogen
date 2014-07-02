@@ -1,0 +1,12 @@
+[submodule "x4deep"]
+	path = x4deep
+	url = https://github.com/xopherdeep/x4deep.git
+[submodule "smarty"]
+	path = smarty
+	url = https://github.com/xopherdeep/smarty
+[submodule "phpThumb"]
+	path = phpThumb
+	url = https://github.com/xopherdeep/phpThumb.git
+[submodule "Zend"]
+	path = Zend
+	url = https://github.com/zendframework/zf1.git
