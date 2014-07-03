@@ -11,14 +11,21 @@ git submodule add https://github.com/xopherdeep/smarty3.1.19 smarty --depth 1
 # git filter-branch --subdirectory-filter distribution -f
 # cd ..
  
-git rm Zend -r
-git submodule add https://github.com/xopherdeep/ZF1 Zend --depth 1
-# cd ./Zend/
-# git filter-branch --subdirectory-filter library/Zend -f
-# cd ..
 
-
-
+	read -p "Download Zend Now? " answer
+# (2) handle the input we were given
+	case $answer in
+		[yY]* ) 
+			echo "Okay, this may take a second..."
+			git rm Zend -r
+			git submodule add https://github.com/xopherdeep/ZF1 Zend --depth 1/usr/bin/wget -O - -q -t 1 http://www.example.com/cron.php           
+			# cd ./Zend/
+			# git filter-branch --subdirectory-filter library/Zend -f
+			# cd ..
+	   	break;;
+		[nN]* ) exit;;
+		* )     echo "Dude, just enter Y or N, please.";;
+	esac
 
 #  Use this if prefer subtree..
 # git subtree add --prefix smarty https://github.com/xopherdeep/smarty distribution --squash
