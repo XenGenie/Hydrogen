@@ -3,7 +3,7 @@
 	url = https://github.com/xopherdeep/x4deep
 [submodule "Zend"]
 	path = Zend
-	url = https://github.com/zendframework/zf1.git
+	url = https://github.com/zendframework/zf1
 [submodule "smarty"]
 	path = smarty
 	url = https://github.com/xopherdeep/smarty.git
