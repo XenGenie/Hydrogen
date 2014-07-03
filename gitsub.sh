@@ -12,7 +12,7 @@ git submodule add -b distribution https://github.com/xopherdeep/smarty smarty --
 # cd ..
  
 git rm Zend -r
-git submodule add -b library-Zend https://github.com/xopherdeep/Zend-Framework-v1 Zend --depth 1
+git submodule add -b library-Zend https://github.com/xopherdeep/ZF1 Zend --depth 1
 # cd ./Zend/
 # git filter-branch --subdirectory-filter library/Zend -f
 # cd ..
