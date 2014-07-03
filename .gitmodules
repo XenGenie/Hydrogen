@@ -1,6 +1,6 @@
 [submodule "x4deep"]
 	path = x4deep
-	url = https://github.com/xopherdeep/x4deep
+	url = https://github.com/xopherdeep/x4deep2
 [submodule "phpThumb"]
 	path = phpThumb
 	url = https://github.com/xopherdeep/phpThumb1.7.11
