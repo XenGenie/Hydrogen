@@ -3,4 +3,6 @@ Hydrogen
 
 Hydrogen is a Repo of other Popular/Common PHP Repos
 
-Once Pulled be sure to run ./gitsub.sh
+    $ git clone http://github.com/XenGenie/Hydrogen
+    $ cd Hydrogen/
+    $ ./gitsub.sh
