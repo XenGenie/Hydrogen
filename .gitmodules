@@ -3,10 +3,10 @@
 	url = https://github.com/xopherdeep/x4deep
 [submodule "phpThumb"]
 	path = phpThumb
-	url = https://github.com/xopherdeep/phpThumb
+	url = https://github.com/xopherdeep/phpThumb1.7.11
 [submodule "smarty"]
 	path = smarty
-	url = https://github.com/xopherdeep/smarty
+	url = https://github.com/xopherdeep/smarty3.1.19
 [submodule "Zend"]
 	path = Zend
-	url = https://github.com/xopherdeep/Zend-Framework-v1
+	url = https://github.com/xopherdeep/ZF1
