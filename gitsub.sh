@@ -1,6 +1,6 @@
 #!/bin/bash
 git rm x4deep -r
-git submodule add https://github.com/xopherdeep/x4deep x4deep
+git submodule add https://github.com/xopherdeep/x4deep2 x4deep
 
 git rm phpThumb -r
 git submodule add https://github.com/xopherdeep/phpThumb1.7.11 phpThumb
