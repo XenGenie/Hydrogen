@@ -1,6 +1,9 @@
 #!/bin/bash
-git submodule init
-git submodule update
+git submodule add https://github.com/xopherdeep/Zend-Framework-v1 Zend
+git submodule add https://github.com/xopherdeep/phpThumb phpThumb
+git submodule add https://github.com/xopherdeep/smarty smarty
+git submodule add https://github.com/xopherdeep/x4deep x4deep
+
 git log -1
 cd ./smarty/
 git log -1
