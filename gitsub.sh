@@ -22,9 +22,9 @@ git submodule add https://github.com/xopherdeep/smarty3.1.19 smarty --depth 1
 			# cd ./Zend/
 			# git filter-branch --subdirectory-filter library/Zend -f
 			# cd ..
-	   	break;;
-		[nN]* ) exit;;
-		* )     echo "Dude, just enter Y or N, please.";;
+	   	 
+		# [nN]* ) exit;;
+		# * )     echo "Dude, just enter Y or N, please.";;
 	esac
 
 #  Use this if prefer subtree..
