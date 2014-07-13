@@ -13,3 +13,6 @@
 [submodule "github"]
 	path = github
 	url = https://github.com/xopherdeep/php-github-api-lib
+[submodule "Github"]
+	path = Github
+	url = https://github.com/xopherdeep/php-github-api-lib
