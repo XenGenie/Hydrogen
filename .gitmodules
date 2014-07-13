@@ -10,3 +10,6 @@
 [submodule "Zend"]
 	path = Zend
 	url = https://github.com/xopherdeep/ZF1
+[submodule "github"]
+	path = github
+	url = https://github.com/xopherdeep/php-github-api-lib
