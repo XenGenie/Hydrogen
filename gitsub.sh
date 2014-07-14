@@ -1,17 +1,17 @@
 #!/bin/bash
-git rm x4deep -r
+git rm -rf --cached x4deep
 git submodule add https://github.com/xopherdeep/x4deep2 x4deep
 
-git rm phpThumb -r
+git rm -rf --cached phpThumb 
 git submodule add https://github.com/xopherdeep/phpThumb1.7.11 phpThumb
 
-git rm smarty -r
+git rm -rf --cached smarty 
 git submodule add https://github.com/xopherdeep/smarty3.1.19 smarty --depth 1
 # cd ./smarty/
 # git filter-branch --subdirectory-filter distribution -f
 # cd ..
 
-git rm github -r
+git rm -rf --cached github 
 git submodule add https://github.com/xopherdeep/php-github-api-lib github
 
 read -p "Download Local Copy of Zend? " answer
