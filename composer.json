@@ -1,7 +1,4 @@
 {
-	"require": {
-        "ext-curl": "*"
-    },
     "require": {
         "knplabs/github-api": "1.2.6"
     }
