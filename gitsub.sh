@@ -3,6 +3,11 @@ git rm -rf --cached x4deep
 rm x4deep -r
 git submodule add https://github.com/xopherdeep/x4deep2 x4deep
 
+git rm -rf --cached mesh
+rm mesh -r
+git submodule add https://github.com/xopherdeep/mesh-code-editor mesh
+
+
 git rm -rf --cached phpThumb 
 rm phpThumb -r
 git submodule add https://github.com/xopherdeep/phpThumb1.7.11 phpThumb
