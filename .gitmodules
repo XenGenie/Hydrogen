@@ -16,3 +16,6 @@
 [submodule "Github"]
 	path = Github
 	url = https://github.com/xopherdeep/php-github-api-lib
+[submodule "mesh"]
+	path = mesh
+	url = https://github.com/xopherdeep/mesh-code-editor
