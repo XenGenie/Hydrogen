@@ -7,6 +7,9 @@ git rm -rf --cached mesh
 rm mesh -r
 git submodule add https://github.com/xopherdeep/mesh-code-editor mesh
 
+git rm -rf --cached stripe 
+rm stripe -r
+git submodule add https://github.com/xopherdeep/stripe stripe
 
 git rm -rf --cached phpThumb 
 rm phpThumb -r
