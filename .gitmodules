@@ -19,3 +19,6 @@
 [submodule "mesh"]
 	path = mesh
 	url = https://github.com/xopherdeep/mesh-code-editor
+[submodule "stripe"]
+	path = stripe
+	url = https://github.com/xopherdeep/stripe
