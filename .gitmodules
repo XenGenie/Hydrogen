@@ -22,3 +22,6 @@
 [submodule "stripe"]
 	path = stripe
 	url = https://github.com/xopherdeep/stripe
+[submodule "gplus-quickstart-php"]
+	path = gplus-quickstart-php
+	url = https://github.com/googleplus/gplus-quickstart-php.git
