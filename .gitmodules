@@ -7,9 +7,6 @@
 [submodule "smarty"]
 	path = smarty
 	url = https://github.com/xopherdeep/smarty3.1.19
-[submodule "Zend"]
-	path = Zend
-	url = https://github.com/xopherdeep/ZF1
 [submodule "github"]
 	path = github
 	url = https://github.com/xopherdeep/php-github-api-lib
@@ -25,3 +22,6 @@
 [submodule "gplus-quickstart-php"]
 	path = gplus-quickstart-php
 	url = https://github.com/googleplus/gplus-quickstart-php.git
+[submodule "Zend"]
+	path = Zend
+	url = https://github.com/xopherdeep/ZF1
