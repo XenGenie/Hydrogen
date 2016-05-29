@@ -25,3 +25,6 @@
 [submodule "Zend"]
 	path = Zend
 	url = https://github.com/xopherdeep/ZF1
+[submodule "firephp"]
+	path = firephp
+	url = https://github.com/firephp/firephp-core.git
