@@ -4,9 +4,6 @@
 [submodule "phpThumb"]
 	path = phpThumb
 	url = https://github.com/xopherdeep/phpThumb1.7.11
-[submodule "smarty"]
-	path = smarty
-	url = https://github.com/xopherdeep/smarty3.1.19
 [submodule "github"]
 	path = github
 	url = https://github.com/xopherdeep/php-github-api-lib
