@@ -27,4 +27,4 @@
 	url = https://github.com/firephp/firephp-core.git
 [submodule "smarty"]
 	path = smarty
-	url = git@github.com:xopherdeep/smarty.git
+	url = https://github.com/xopherdeep/smarty.git
