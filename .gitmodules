@@ -23,8 +23,8 @@
 	path = Zend
 	url = https://github.com/xopherdeep/ZF1
 [submodule "firephp"]
-	path = firephp
-	url = https://github.com/firephp/firephp-core.git
+  path = firephp
+  url = https://github.com/xopherdeep/firephp-core.git
 [submodule "smarty"]
 	path = smarty
 	url = https://github.com/xopherdeep/smarty.git
